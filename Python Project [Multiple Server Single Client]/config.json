@@ -1,0 +1,36 @@
+{
+    "main" : {
+        "host": "localhost",
+        "port": 3000,
+        "name": "Main server",
+        "Description": "Give operation mode, and get host and port back"
+    },
+
+    "addition" : {
+        "host": "localhost",
+        "port": 3001,
+        "name": "Addition server",
+        "Description": "Add two numbers in json and you will get sum result in json"
+    },
+
+    "subtraction": {
+        "host": "localhost",
+        "port": 3002,
+        "name": "Subtraction server",
+        "Description": "Add two numbers in json and you will subtraction result in json"
+    },
+
+    "multiplication" : {
+        "host": "localhost",
+        "port": 3003,
+        "name": "Multiplication server",
+        "Description": "Add two numbers in json and you will get multiplication result in json"
+    },
+
+    "division" : {
+        "host": "localhost",
+        "port": 3004,
+        "name": "Division server",
+        "Description": "Add two numbers in json and you will get divison result in json"
+    }
+}
